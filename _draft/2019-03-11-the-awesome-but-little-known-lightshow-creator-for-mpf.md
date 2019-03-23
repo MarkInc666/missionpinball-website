@@ -64,7 +64,7 @@ created the awesome
 ![MPF Lightshow Creator](http://docs.missionpinball.org/en/dev/_images/showcreator.png)
 
 The tool allows you to set a shape (i.e. a star in the example), choose a start
-and an end position and color.
+and an end position, rotation and color.
 Based on that it will create a light show for you which contains one section
 per step (at a defined frame rate). 
 Neat right?
@@ -74,7 +74,7 @@ Luckily, you probably already have them set if you used the MPF Monitor:
 
 ![MPF Monitor](http://docs.missionpinball.org/en/dev/_images/mpf-monitor.jpg)
 
-It allows you to use drag an drop to position all your switches and lights on
+It allows you to use drag and drop to position all your switches and lights on
 a playfield image.
 Those positions are then saved to the ``monitor/monitor.yaml`` file in your
 machine folder.
